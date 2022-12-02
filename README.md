@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @LeonardTopno
-- 👀 I’m interested in Python
+- 👀 I enjoy programming in Python.
+- Area of interest - Chatbot development. AI/ML. Plotly Dash Dashboard.
 - 🌱 I’m currently learning Dart 
 - 💞️ I’m looking to collaborate on Development Projects
 - 📫 How to reach me : leo.topno[at]gmail.com [+91-9663920875]
